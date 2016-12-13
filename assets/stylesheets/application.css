@@ -115,6 +115,7 @@ img {
       background-image: url("https://s-media-cache-ak0.pinimg.com/originals/f8/a8/db/f8a8db4fc476f13681a11edad655828a.jpg");
       background-position: center;
       background-size: auto;
+      background-attachment: local;
 }
 .foto4 {
       background-image: url("https://s-media-cache-ak0.pinimg.com/originals/67/51/57/67515754e856c32afccf6ca57e7febc1.jpg");
