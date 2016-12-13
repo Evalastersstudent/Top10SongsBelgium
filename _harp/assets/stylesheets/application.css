@@ -16,13 +16,15 @@ body {
 
 h1 {
       font-size: 3em;
+      color: black;
+}
+
+.hoofdtitel {
+      padding: 0% auto 1% auto;
       border-top: 2px black solid;
       border-bottom: 2px black solid;
       width: 80%;
       margin: 1.5% auto;
-      color: black;
-      line-height: 1.75em;
-      padding-top: -2%;
 }
 
 p {
