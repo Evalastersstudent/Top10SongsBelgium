@@ -142,13 +142,13 @@ img:last-of-type {
   z-index:-1;
 }
 
-#slide10 {
-  background-image: url("http://lorempixel.com/640/480/abstract/3/");
-  background-attachment: fixed;
-}
-
-#slide11:before {
+#slide10:before {
   background-image: url("http://lorempixel.com/640/480/abstract/5/");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
+}
+
+#slide11 {
+  background-image: url("http://lorempixel.com/640/480/abstract/3/");
+  background-attachment: fixed;
 }
