@@ -21,8 +21,7 @@ h1 {
       width: 80%;
       margin: 1.5% auto;
       color: black;
-      padding: 0% auto 2% auto;
-      vertical-align:text-top;
+      line-height: 1.5em;
 }
 
 p {
