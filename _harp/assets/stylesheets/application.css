@@ -97,6 +97,8 @@ img:last-of-type {
       background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c6/9c/66/c69c660748dea926a894120bcf016c97.jpg");
       background-attachment: fixed;
       padding: 1px 0%;
+      text-align: center;
+      opacity: 0.5;
 }
 
 #slide2:before {
