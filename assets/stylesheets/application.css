@@ -61,7 +61,7 @@ p {
       background: rgba(240,230,220, .7);
       box-shadow: 0 0 8px rgba(0, 0, 0, .7);
 }
-.foto1:last-of-type {
+.foto1::nth-of-type(2) {
       transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(-40%) rotate(-5deg);
 }
 
@@ -78,7 +78,7 @@ p {
       background: rgba(240,230,220, .7);
       box-shadow: 0 0 8px rgba(0, 0, 0, .7);
 }
-.foto2:last-of-type {
+.foto2::nth-of-type(2) {
       transform: translateZ(.4px) scale(.6) translateX(104%) translateY(-40%) rotate(5deg);
 }
 
