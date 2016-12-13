@@ -53,8 +53,8 @@ p {
       position: absolute;
       top: 40%;
       left: 35%;
-      width: 200px;
-      height: 150px;
+      width: 160px;
+      height: 120px;
       transform: translateZ(.25px) scale(.75) translateX(-94%) translateY(-100%) rotate(2deg);
       padding: 10px;
       border-radius: 5px;
@@ -78,8 +78,8 @@ p {
       position: absolute;
       top: 40%;
       right: 35%;
-      width: 200px;
-      height: 150px;
+      width: 160px;
+      height: 120px;
       transform: translateZ(.25px) scale(.75) translateX(94%) translateY(-100%) rotate(-2deg);
       padding: 10px;
       border-radius: 5px;
@@ -87,16 +87,16 @@ p {
       box-shadow: 0 0 8px rgba(0, 0, 0, .7);
 }
 .foto2:nth-of-type(2) {
-      transform: translateZ(.4px) scale(.6) translateX(104%) translateY(-40%) rotate(9deg);
+      transform: translateZ(.4px) scale(.6) translateX(104%) translateY(-20%) rotate(9deg);
 }
 .foto2:nth-of-type(3) {
-      transform: translateZ(.4px) scale(.6) translateX(90%) translateY(30%) rotate(-12deg);
+      transform: translateZ(.4px) scale(.6) translateX(90%) translateY(70%) rotate(-12deg);
 }
 .foto2:nth-of-type(4) {
-      transform: translateZ(.4px) scale(.6) translateX(108%) translateY(100%) rotate(3deg);
+      transform: translateZ(.4px) scale(.6) translateX(108%) translateY(160%) rotate(3deg);
 }
 .foto2:nth-of-type(5) {
-      transform: translateZ(.4px) scale(.6) translateX(96%) translateY(170%) rotate(-5deg);
+      transform: translateZ(.4px) scale(.6) translateX(96%) translateY(250%) rotate(-5deg);
 }
 img {
       max-width: 100%;
