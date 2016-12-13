@@ -96,7 +96,7 @@ img:last-of-type {
 #slide1 {
       background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c6/9c/66/c69c660748dea926a894120bcf016c97.jpg");
       background-attachment: fixed;
-      padding: 0%;
+      padding: 25% 0%;
 }
 
 #slide2:before {
