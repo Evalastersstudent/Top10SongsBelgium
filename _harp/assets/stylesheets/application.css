@@ -76,7 +76,7 @@ p {
 }
 
 .fotorechts:last-of-type {
-      transform: translateZ(.4px) scale(.6) translateX(104%) translateY(-40%) rotate(-5deg);
+      transform: translateZ(.4px) scale(.6) translateX(104%) translateY(-20%) rotate(-5deg);
 }
 
 .slide:before {
