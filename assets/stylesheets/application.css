@@ -16,9 +16,11 @@ body {
 
 h1 {
       font-size: 3em;
-      border-top: 1px black solid;
-      border-bottom: 1px black solid;
-      width: 90%;
+      border-top: 2px black solid;
+      border-bottom: 2px black solid;
+      width: 80%;
+      margin: 0% auto;
+      color: black;
 }
 
 p {
