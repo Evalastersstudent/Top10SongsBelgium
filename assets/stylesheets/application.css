@@ -52,7 +52,7 @@ p {
 .foto1 {
       position: absolute;
       top: 50%;
-      left: 40%;
+      left: 25%;
       width: 200px;
       height: 150px;
       transform: translateZ(.25px) scale(.75) translateX(-94%) translateY(-100%) rotate(2deg);
@@ -69,7 +69,7 @@ p {
 .foto2 {
       position: absolute;
       top: 50%;
-      right: 40%;
+      left: 40%;
       width: 200px;
       height: 150px;
       transform: translateZ(.25px) scale(.75) translateX(94%) translateY(-100%) rotate(-2deg);
