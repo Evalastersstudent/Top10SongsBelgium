@@ -68,7 +68,7 @@ p {
       transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(30%) rotate(-5deg);
 }
 .foto1:nth-of-type(4) {
-      transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(100%) rotate(-5deg);
+      transform: translateZ(-0.4px) scale(.6) translateX(-104%) translateY(100%) rotate(-5deg);
 }
 .foto1:nth-of-type(5) {
       transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(170%) rotate(-5deg);
