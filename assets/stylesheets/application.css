@@ -17,11 +17,10 @@ body {
 h1 {
       font-size: 3em;
       color: black;
-      margin: 0% auto;
+      margin: 0% auto 1% auto;
 }
 
 .hoofdtitel {
-      padding: 0% auto 1% auto;
       border-top: 2px black solid;
       border-bottom: 2px black solid;
       width: 80%;
