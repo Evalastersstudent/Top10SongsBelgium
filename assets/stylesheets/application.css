@@ -114,3 +114,41 @@ img:last-of-type {
 #slide4 {
   background: #222;
 }
+
+#slide5:before {
+  background-image: url("http://lorempixel.com/640/480/abstract/4/");
+  transform: translateZ(-1px) scale(2);
+  z-index:-1;
+}
+
+#slide6 {
+  background-image: url("http://lorempixel.com/640/480/abstract/3/");
+  background-attachment: fixed;
+}
+
+#slide7:before {
+  background-image: url("http://lorempixel.com/640/480/abstract/5/");
+  transform: translateZ(-1px) scale(2);
+  z-index:-1;
+}
+
+#slide8 {
+  background: #222;
+}
+
+#slide9:before {
+  background-image: url("http://lorempixel.com/640/480/abstract/4/");
+  transform: translateZ(-1px) scale(2);
+  z-index:-1;
+}
+
+#slide10 {
+  background-image: url("http://lorempixel.com/640/480/abstract/3/");
+  background-attachment: fixed;
+}
+
+#slide11:before {
+  background-image: url("http://lorempixel.com/640/480/abstract/5/");
+  transform: translateZ(-1px) scale(2);
+  z-index:-1;
+}
