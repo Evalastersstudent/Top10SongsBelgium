@@ -94,19 +94,13 @@ img:last-of-type {
    background-attachment: fixed;
 }
 
-#slide2:before {
-  background-image: url("http://lorempixel.com/640/480/abstract/4/");
-  transform: translateZ(-1px) scale(2);
-  z-index:-1;
-}
-
 #slide1 {
   background-image: url("http://lorempixel.com/640/480/abstract/3/");
   background-attachment: fixed;
 }
 
-#slide4:before {
-  background-image: url("http://lorempixel.com/640/480/abstract/5/");
+#slide2:before {
+  background-image: url("http://lorempixel.com/640/480/abstract/4/");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
@@ -115,8 +109,8 @@ img:last-of-type {
   background: #222;
 }
 
-#slide6:before {
-  background-image: url("http://lorempixel.com/640/480/abstract/4/");
+#slide4:before {
+  background-image: url("http://lorempixel.com/640/480/abstract/5/");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
@@ -126,8 +120,8 @@ img:last-of-type {
   background-attachment: fixed;
 }
 
-#slide8:before {
-  background-image: url("http://lorempixel.com/640/480/abstract/5/");
+#slide6:before {
+  background-image: url("http://lorempixel.com/640/480/abstract/4/");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
@@ -136,14 +130,19 @@ img:last-of-type {
   background: #222;
 }
 
-#slide9 {
-  background-image: url("http://lorempixel.com/640/480/abstract/4/");
+#slide8:before {
+  background-image: url("http://lorempixel.com/640/480/abstract/5/");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
 
+#slide9 {
+  background-image: url("http://lorempixel.com/640/480/abstract/3/");
+  background-attachment: fixed;
+}
+
 #slide10:before {
-  background-image: url("http://lorempixel.com/640/480/abstract/5/");
+  background-image: url("http://lorempixel.com/640/480/abstract/4/");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
