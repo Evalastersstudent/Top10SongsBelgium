@@ -15,8 +15,10 @@ body {
 }
 
 h1 {
-      font-size: 5em;
-
+      font-size: 3em;
+      border-top: 1px black solid;
+      border-bottom: 1px black solid;
+      width: 75%;
 }
 
 p {
