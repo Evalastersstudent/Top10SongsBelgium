@@ -49,7 +49,7 @@ p {
 }
 
 
-.foto1 {
+.fotolinks {
       position: absolute;
       top: 40%;
       left: 35%;
@@ -61,20 +61,20 @@ p {
       background: rgba(240,230,220, .7);
       box-shadow: 0 0 8px rgba(0, 0, 0, .7);
 }
-.foto1:nth-of-type(2) {
+.fotolinks:nth-of-type(2) {
       transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(-20%) rotate(-9deg);
 }
-.foto1:nth-of-type(3) {
+.fotolinks:nth-of-type(3) {
       transform: translateZ(.4px) scale(.6) translateX(-90%) translateY(70%) rotate(12deg);
 }
-.foto1:nth-of-type(4) {
+.fotolinks:nth-of-type(4) {
       transform: translateZ(.4px) scale(.6) translateX(-108%) translateY(160%) rotate(-3deg);
 }
-.foto1:nth-of-type(5) {
+.fotolinks:nth-of-type(5) {
       transform: translateZ(.4px) scale(.6) translateX(-96%) translateY(250%) rotate(5deg);
 }
 
-.foto2 {
+.fotorechts {
       position: absolute;
       top: 40%;
       right: 35%;
@@ -86,21 +86,62 @@ p {
       background: rgba(240,230,220, .7);
       box-shadow: 0 0 8px rgba(0, 0, 0, .7);
 }
-.foto2:nth-of-type(2) {
+.fotorechts:nth-of-type(2) {
       transform: translateZ(.4px) scale(.6) translateX(104%) translateY(-20%) rotate(9deg);
 }
-.foto2:nth-of-type(3) {
+.fotorechts:nth-of-type(3) {
       transform: translateZ(.4px) scale(.6) translateX(90%) translateY(70%) rotate(-12deg);
 }
-.foto2:nth-of-type(4) {
+.fotorechts:nth-of-type(4) {
       transform: translateZ(.4px) scale(.6) translateX(108%) translateY(160%) rotate(3deg);
 }
-.foto2:nth-of-type(5) {
+.fotorechts:nth-of-type(5) {
       transform: translateZ(.4px) scale(.6) translateX(96%) translateY(250%) rotate(-5deg);
 }
 img {
       max-width: 100%;
 }
+#foto1 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/fc/d6/f8/fcd6f8585dea260cd291ff8e2822b9c8.jpg");
+      background-attachment: fixed;
+}
+#foto2 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ff/bf/b2/ffbfb21a052df94888acb46ea36e63ce.jpg");
+      background-attachment: fixed;
+}
+#foto3 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/f8/a8/db/f8a8db4fc476f13681a11edad655828a.jpg");
+      background-attachment: fixed;
+}
+#foto4 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/67/51/57/67515754e856c32afccf6ca57e7febc1.jpg");
+      background-attachment: fixed;
+}
+#foto5 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/76/e1/6e/76e16e40fb7ff20e4ef139cc1711a71f.jpg");
+      background-attachment: fixed;
+}
+#foto6 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/05/a2/86/05a286ef98ff998d6de7a463d6568ea6.jpg");
+      background-attachment: fixed;
+}
+#foto7 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/94/43/57/9443575223902e5009b7d45cde78471c.jpg");
+      background-attachment: fixed;
+}
+#foto8 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/4d/71/b9/4d71b95671177c64e2ac3ccea855a9d4.png");
+      background-attachment: fixed;
+}
+#foto9 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/92/78/b2/9278b2413a19679963523842ea6b1ef0.jpg");
+      background-attachment: fixed;
+}
+#foto10 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d8/93/55/d893554ffff41b43f64d258068ac56ba.jpg");
+      background-attachment: fixed;
+}
+
 
 .slide:before {
       content: "";
