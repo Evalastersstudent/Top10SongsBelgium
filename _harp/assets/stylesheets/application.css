@@ -1,150 +1,150 @@
 html {
-  height: 100%;
-  overflow: hidden;
+      height: 100%;
+      overflow: hidden;
 }
 
 body {
-  margin:0;
-  padding:0;
-	perspective: 1px;
-	transform-style: preserve-3d;
-  height: 100%;
-  overflow-y: scroll;
-  overflow-x: hidden;
-  font-family: Nunito;
+      margin:0;
+      padding:0;
+    	perspective: 1px;
+    	transform-style: preserve-3d;
+      height: 100%;
+      overflow-y: scroll;
+      overflow-x: hidden;
+      font-family: Nunito;
 }
 
 h1 {
-   font-size: 250%
+      font-size: 250%
 }
 
 p {
-  font-size: 140%;
-  line-height: 150%;
-  color: #333;
+      font-size: 140%;
+      line-height: 150%;
+      color: #333;
 }
 
 .slide {
-  position: relative;
-  padding: 25vh 10%;
-  min-height: 100vh;
-  width: 100vw;
-  box-sizing: border-box;
-  box-shadow: 0 -1px 10px rgba(0, 0, 0, .7);
-	transform-style: inherit;
+      position: relative;
+      padding: 25vh 10%;
+      min-height: 100vh;
+      width: 100vw;
+      box-sizing: border-box;
+      box-shadow: 0 -1px 10px rgba(0, 0, 0, .7);
+    	transform-style: inherit;
 }
 
 img {
-  position: absolute;
-  top: 50%;
-  left: 35%;
-  width: 320px;
-  height: 240px;
-  transform: translateZ(.25px) scale(.75) translateX(-94%) translateY(-100%) rotate(2deg);
-  padding: 10px;
-  border-radius: 5px;
-  background: rgba(240,230,220, .7);
-  box-shadow: 0 0 8px rgba(0, 0, 0, .7);
+      position: absolute;
+      top: 50%;
+      left: 35%;
+      width: 320px;
+      height: 240px;
+      transform: translateZ(.25px) scale(.75) translateX(-94%) translateY(-100%) rotate(2deg);
+      padding: 10px;
+      border-radius: 5px;
+      background: rgba(240,230,220, .7);
+      box-shadow: 0 0 8px rgba(0, 0, 0, .7);
 }
 
 img:last-of-type {
-  transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(-40%) rotate(-5deg);
+      transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(-40%) rotate(-5deg);
 }
 
 .slide:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left:0;
-  right:0;
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left:0;
+      right:0;
 }
 
 .title {
-  width: 50%;
-  padding: 5%;
-  border-radius: 5px;
-  background: rgba(240,230,220, .7);
-  box-shadow: 0 0 8px rgba(0, 0, 0, .7);
+      width: 50%;
+      padding: 5%;
+      border-radius: 5px;
+      background: rgba(240,230,220, .7);
+      box-shadow: 0 0 8px rgba(0, 0, 0, .7);
 }
 
 .slide:nth-child(2n) .title {
-  margin-left: 0;
-  margin-right: auto;
+      margin-left: 0;
+      margin-right: auto;
 }
 
 .slide:nth-child(2n+1) .title {
-  margin-left: auto;
-  margin-right: 0;
+      margin-left: auto;
+      margin-right: 0;
 }
 
 .slide, .slide:before {
-  background: 50% 50% / cover;
+      background: 50% 50% / cover;
 }
 
 .header {
-  text-align: center;
-  font-size: 175%;
-  color: #fff;
-  text-shadow: 0 2px 2px #000;
+      text-align: center;
+      font-size: 175%;
+      color: #fff;
+      text-shadow: 0 2px 2px #000;
 }
 
-#title {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c6/9c/66/c69c660748dea926a894120bcf016c97.jpg");
-  background-attachment: fixed;
+#slide1 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c6/9c/66/c69c660748dea926a894120bcf016c97.jpg");
+      background-attachment: fixed;
 }
 
-#slide1:before {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ff/bf/b2/ffbfb21a052df94888acb46ea36e63ce.jpg");
-  transform: translateZ(-1px) scale(2);
-  z-index:-1;
+#slide2:before {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ff/bf/b2/ffbfb21a052df94888acb46ea36e63ce.jpg");
+      transform: translateZ(-1px) scale(2);
+      z-index:-1;
 }
 
-#slide2 {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/f8/a8/db/f8a8db4fc476f13681a11edad655828a.jpg");
-  background-attachment: fixed;
+#slide3 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/f8/a8/db/f8a8db4fc476f13681a11edad655828a.jpg");
+      background-attachment: fixed;
 }
 
-#slide3:before {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/67/51/57/67515754e856c32afccf6ca57e7febc1.jpg");
-  transform: translateZ(-1px) scale(2);
-  z-index:-1;
+#slide4:before {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/67/51/57/67515754e856c32afccf6ca57e7febc1.jpg");
+      transform: translateZ(-1px) scale(2);
+      z-index:-1;
 }
 
-#slide4 {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/76/e1/6e/76e16e40fb7ff20e4ef139cc1711a71f.jpg");
-  background-attachment: fixed;
+#slide5 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/76/e1/6e/76e16e40fb7ff20e4ef139cc1711a71f.jpg");
+      background-attachment: fixed;
 }
 
-#slide5:before {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/05/a2/86/05a286ef98ff998d6de7a463d6568ea6.jpg");
-  transform: translateZ(-1px) scale(2);
-  z-index:-1;
+#slide6:before {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/05/a2/86/05a286ef98ff998d6de7a463d6568ea6.jpg");
+      transform: translateZ(-1px) scale(2);
+      z-index:-1;
 }
 
-#slide6 {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/94/43/57/9443575223902e5009b7d45cde78471c.jpg");
-  background-attachment: fixed;
+#slide7 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/94/43/57/9443575223902e5009b7d45cde78471c.jpg");
+      background-attachment: fixed;
 }
 
-#slide7:before {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/4d/71/b9/4d71b95671177c64e2ac3ccea855a9d4.png");
-  transform: translateZ(-1px) scale(2);
-  z-index:-1;
+#slide8:before {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/4d/71/b9/4d71b95671177c64e2ac3ccea855a9d4.png");
+      transform: translateZ(-1px) scale(2);
+      z-index:-1;
 }
 
-#slide8 {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/92/78/b2/9278b2413a19679963523842ea6b1ef0.jpg");
-  background-attachment: fixed;
+#slide9 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/92/78/b2/9278b2413a19679963523842ea6b1ef0.jpg");
+      background-attachment: fixed;
 }
 
-#slide9:before {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d8/93/55/d893554ffff41b43f64d258068ac56ba.jpg");
-  transform: translateZ(-1px) scale(2);
-  z-index:-1;
+#slide10:before {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d8/93/55/d893554ffff41b43f64d258068ac56ba.jpg");
+      transform: translateZ(-1px) scale(2);
+      z-index:-1;
 }
 
-#slide10 {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c8/18/00/c81800ef7820af7fc0c608e3e7060475.jpg");
-  background-attachment: fixed;
+#slide11 {
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c8/18/00/c81800ef7820af7fc0c608e3e7060475.jpg");
+      background-attachment: fixed;
 }
