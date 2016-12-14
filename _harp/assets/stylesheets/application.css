@@ -208,4 +208,6 @@
                   width: 120px;
                   height: 90px;
             }
+            #slide1 .fotolinks:nth-of-type(2), #slide1 .fotorechts:nth-of-type(2) { transform: translateY(-20%);}
+
       }
