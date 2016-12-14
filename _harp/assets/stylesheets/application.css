@@ -276,4 +276,7 @@
             #slide1 .fotolinks, #slide1 .fotorechts {
                   display: none;
             }
+            #slide1 .voorpaginakleineschermen {
+              display: block;
+            }
       }
