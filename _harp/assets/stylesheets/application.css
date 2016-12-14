@@ -262,7 +262,7 @@
                   width: 400px;
             }
             .tekst {
-                  width: 90%;
+                  width: 80%;
             }
             .slide:nth-child(2n) .tekst {
                   position: absolute;
