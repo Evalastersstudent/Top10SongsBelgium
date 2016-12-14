@@ -244,7 +244,8 @@
       }
       @media only screen and (max-height: 770px) {
             #slide1 .fotolinks, #slide1 .fotorechts {
-                  top: 45%;
+                  top: 42.5%;
+                  width: 120px;
+                  height: 90px;
             }
-
       }
