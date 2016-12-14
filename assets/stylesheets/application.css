@@ -245,8 +245,17 @@
             }
             #slide1 nav {
                   width: 400px;
-                  margin: 0% auto;
             }
+      }
+      @media only screen and (max-width: 480px) {
+            #slide1 nav {
+                  width: 350px;
+            }
+            #slide1 .nav1, #slide1 .nav2, #slide1 .nav3, #slide1 .nav4, #slide1 .nav5,
+            #slide1 .nav6, #slide1 .nav7, #slide1 .nav8, #slide1 .nav9, #slide1 .nav10 {
+                  font-size: 0.75em;
+            }
+
       }
       @media only screen and (max-width: 440px) {
             h1 {
