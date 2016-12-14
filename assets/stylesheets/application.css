@@ -197,13 +197,13 @@
             margin: 0% auto;
       }
 
-      #slide1 .nav1, #slide1 .nav2, #slide1 .nav3, #slide1 .nav4, #slide1 .nav5 {
+      #slide1 .nav1, #slide1 .nav3, #slide1 .nav5, #slide1 .nav7, #slide1 .nav9 {
             float: left;
             display: block;
             clear: left;
       }
 
-      #slide1 .nav6, #slide1 .nav7, #slide1 .nav8, #slide1 .nav9, #slide1 .nav10 {
+      #slide1 .nav2, #slide1 .nav4, #slide1 .nav6, #slide1 .nav8, #slide1 .nav10 {
             float: right;
             display: block;
             clear: right;
