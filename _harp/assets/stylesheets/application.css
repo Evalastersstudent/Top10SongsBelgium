@@ -211,11 +211,11 @@
             #slide1 .fotolinks:nth-of-type(2) { transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(0%) rotate(-9deg);}
             #slide1 .fotolinks:nth-of-type(3) { transform: translateZ(.4px) scale(.6) translateX(-90%) translateY(70%) rotate(12deg);}
             #slide1 .fotolinks:nth-of-type(4) { transform: translateZ(.4px) scale(.6) translateX(-108%) translateY(150%) rotate(-3deg);}
-            #slide1 .fotolinks:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(-96%) translateY(230%) rotate(5deg);}
+            #slide1 .fotolinks:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(-96%) translateY(220%) rotate(5deg);}
             #slide1 .fotorechts:nth-of-type(2) { transform: translateZ(.4px) scale(.6) translateX(104%) translateY(0%) rotate(9deg);}
             #slide1 .fotorechts:nth-of-type(3) { transform: translateZ(.4px) scale(.6) translateX(90%) translateY(70%) rotate(-12deg);}
             #slide1 .fotorechts:nth-of-type(4) { transform: translateZ(.4px) scale(.6) translateX(108%) translateY(150%) rotate(3deg);}
-            #slide1 .fotorechts:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(96%) translateY(230%) rotate(-5deg);}
+            #slide1 .fotorechts:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(96%) translateY(220%) rotate(-5deg);}
             #slide1 a {
                   font-size: 0.75em;
             }
@@ -232,11 +232,11 @@
             #slide1 .fotolinks:nth-of-type(2) { transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(40%) rotate(-9deg);}
             #slide1 .fotolinks:nth-of-type(3) { transform: translateZ(.4px) scale(.6) translateX(-90%) translateY(100%) rotate(12deg);}
             #slide1 .fotolinks:nth-of-type(4) { transform: translateZ(.4px) scale(.6) translateX(-108%) translateY(180%) rotate(-3deg);}
-            #slide1 .fotolinks:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(-96%) translateY(260%) rotate(5deg);}
+            #slide1 .fotolinks:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(-96%) translateY(250%) rotate(5deg);}
             #slide1 .fotorechts:nth-of-type(2) { transform: translateZ(.4px) scale(.6) translateX(104%) translateY(40%) rotate(9deg);}
             #slide1 .fotorechts:nth-of-type(3) { transform: translateZ(.4px) scale(.6) translateX(90%) translateY(100%) rotate(-12deg);}
             #slide1 .fotorechts:nth-of-type(4) { transform: translateZ(.4px) scale(.6) translateX(108%) translateY(180%) rotate(3deg);}
-            #slide1 .fotorechts:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(96%) translateY(260%) rotate(-5deg);}
+            #slide1 .fotorechts:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(96%) translateY(250%) rotate(-5deg);}
             #slide1 a {
                   font-size: 0.6em;
             }
