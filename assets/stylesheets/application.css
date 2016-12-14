@@ -251,8 +251,11 @@
       }
       @media only screen and (max-height: 660px) {
             #slide1 .fotolinks, #slide1 .fotorechts {
-                  top: 45%;
+                  top: 44%;
                   width: 100px;
                   height: 75px;
+            }
+            #slide1 a {
+                  font-size: 0.75em;
             }
       }
