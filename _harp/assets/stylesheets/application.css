@@ -215,7 +215,11 @@
 
 /*---Slide2---*/
       .slide .title p, .slide .title h2 {
-        display: inline;
+            display: inline;
+      }
+
+      .slide .title p {
+            margin-left: 2%;
       }
 
 
