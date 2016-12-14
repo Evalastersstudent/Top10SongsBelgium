@@ -208,4 +208,7 @@
                   width: 120px;
                   height: 90px;
             }
+            #slide1 .fotolinks:nth-of-type(2) { transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(0%) rotate(-9deg);}
+            #slide1 .fotorechts:nth-of-type(2) { transform: translateZ(.4px) scale(.6) translateX(104%) translateY(0%) rotate(9deg);}
+
       }
