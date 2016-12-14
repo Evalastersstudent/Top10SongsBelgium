@@ -209,13 +209,11 @@
       }
 
       .slide:nth-child(2n) .tekst {
-            margin-left: 1%;
-            margin-right: auto;
+            margin: auto auto 1% 1%;
       }
 
       .slide:nth-child(2n+1) .tekst {
-            margin-left: auto;
-            margin-right: 1%;
+            margin: 1% 1% auto auto;
       }
 
 
