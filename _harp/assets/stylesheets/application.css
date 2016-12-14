@@ -150,35 +150,9 @@ p {
       background-size: cover;
 }
 
-.foto1:hover {
+.foto1:hover, .foto2:hover, .foto3:hover, .foto4:hover, .foto5:hover,
+.foto6:hover, .foto7:hover, .foto8:hover, .foto9:hover, .foto10:hover {
       background-image: none;
-}
-.foto2:hover {
-      opacity: 0.25;
-}
-.foto3:hover {
-      opacity: 0.25;
-}
-.foto4:hover {
-      opacity: 0.25;
-}
-.foto5:hover {
-      opacity: 0.25;
-}
-.foto6:hover {
-      opacity: 0.25;
-}
-.foto7:hover {
-      opacity: 0.25;
-}
-.foto8:hover {
-      opacity: 0.25;
-}
-.foto9:hover {
-      opacity: 0.25;
-}
-.foto10:hover {
-      opacity: 0.25;
 }
 
 .fotoslinks a, .fotosrechts a {
