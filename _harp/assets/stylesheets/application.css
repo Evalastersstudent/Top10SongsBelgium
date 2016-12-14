@@ -197,6 +197,7 @@
 
       .slide .tekst p {
             font-style: italic;
+            font-weight: bold;
       }
 
 
@@ -210,14 +211,14 @@
 
       .slide:nth-child(2n) .tekst {
             position: absolute;
-            left: 1%;
-            bottom: 1%;
+            left: 2.5%;
+            bottom: 2.5%;
       }
 
       .slide:nth-child(2n+1) .tekst {
             position: absolute;
-            right: 1%;
-            bottom: 1%;
+            right: 2.5%;
+            bottom: 2.5%;
       }
 
 
