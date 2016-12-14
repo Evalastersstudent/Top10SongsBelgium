@@ -52,7 +52,7 @@ p {
 .fotolinks {
       position: absolute;
       top: 40%;
-      left: 35%;
+      left: 40%;
       width: 160px;
       height: 120px;
       transform: translateZ(.25px) scale(.75) translateX(-94%) translateY(-100%) rotate(2deg);
@@ -77,7 +77,7 @@ p {
 .fotorechts {
       position: absolute;
       top: 40%;
-      right: 35%;
+      right: 40%;
       width: 160px;
       height: 120px;
       transform: translateZ(.25px) scale(.75) translateX(94%) translateY(-100%) rotate(-2deg);
