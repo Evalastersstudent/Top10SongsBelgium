@@ -198,6 +198,9 @@
             font-size: 1.4em;
             line-height: 1em;
             font-style: italic;
+      }
+
+      .slide .tekst .title p {
             font-weight: normal;
       }
 
