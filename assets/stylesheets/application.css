@@ -259,3 +259,13 @@
                   font-size: 0.75em;
             }
       }
+      @media only screen and (max-height: 580px) {
+            #slide1 .fotolinks, #slide1 .fotorechts {
+                  top: 45%;
+                  width: 80px;
+                  height: 60px;
+            }
+            #slide1 a {
+                  font-size: 0.6em;
+            }
+      }
