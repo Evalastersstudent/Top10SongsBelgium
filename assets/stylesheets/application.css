@@ -214,7 +214,7 @@
 
 
 /*---Slide2---*/
-      #slide .title p, #slide .title h2 {
+      .slide .title p, #slide .title h2 {
         display: inline;
       }
 
