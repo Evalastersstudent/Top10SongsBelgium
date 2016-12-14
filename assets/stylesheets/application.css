@@ -216,6 +216,9 @@
             #slide1 .fotorechts:nth-of-type(3) { transform: translateZ(.4px) scale(.6) translateX(90%) translateY(70%) rotate(-12deg);}
             #slide1 .fotorechts:nth-of-type(4) { transform: translateZ(.4px) scale(.6) translateX(108%) translateY(150%) rotate(3deg);}
             #slide1 .fotorechts:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(96%) translateY(230%) rotate(-5deg);}
+            #slide1 a {
+                  font-size: 0.75em;
+            }
       }
       @media only screen and (max-width: 440px) {
             h1 {
@@ -235,7 +238,7 @@
             #slide1 .fotorechts:nth-of-type(4) { transform: translateZ(.4px) scale(.6) translateX(108%) translateY(180%) rotate(3deg);}
             #slide1 .fotorechts:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(96%) translateY(260%) rotate(-5deg);}
             #slide1 a {
-                  font-size: 0.75em;
+                  font-size: 0.5em;
             }
 
       }
