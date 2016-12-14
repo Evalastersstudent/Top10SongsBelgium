@@ -249,3 +249,10 @@
                   height: 90px;
             }
       }
+      @media only screen and (max-height: 660px) {
+            #slide1 .fotolinks, #slide1 .fotorechts {
+                  top: 40%;
+                  width: 120px;
+                  height: 90px;
+            }
+      }
