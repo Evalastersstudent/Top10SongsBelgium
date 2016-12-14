@@ -261,6 +261,19 @@
             #slide1 nav {
                   width: 400px;
             }
+            .tekst {
+                  width: 90%;
+            }
+            .slide:nth-child(2n) .tekst {
+                  position: absolute;
+                  left: 2.5%;
+                  bottom: 2.5%;
+            }
+            .slide:nth-child(2n+1) .tekst {
+                  position: absolute;
+                  right: 2.5%;
+                  bottom: 2.5%;
+            }
       }
       @media only screen and (max-width: 480px) {
             #slide1 nav {
