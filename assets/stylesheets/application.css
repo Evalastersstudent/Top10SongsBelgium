@@ -204,6 +204,7 @@
                   font-size: 2em;
             }
             #slide1 .fotolinks, #slide1 .fotorechts {
+                  top: 30%;
                   width: 120px;
                   height: 90px;
             }
