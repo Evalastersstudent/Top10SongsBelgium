@@ -43,7 +43,7 @@
 
 
       #slide1 {background-image: url("https://s-media-cache-ak0.pinimg.com/originals/fc/d6/f8/fcd6f8585dea260cd291ff8e2822b9c8.jpg");}
-      #slide2:before {background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ff/bf/b2/ffbfb21a052df94888acb46ea36e63ce.jpg");}
+      #slide2:before {background-image: url("https://s-media-cache-ak0.pinimg.com/originals/b8/c9/9f/b8c99f7f57d3114c3b7f325526960737.jpg");}
       #slide3 {background-image: url("https://s-media-cache-ak0.pinimg.com/originals/f8/a8/db/f8a8db4fc476f13681a11edad655828a.jpg");}
       #slide4:before {background-image: url("https://s-media-cache-ak0.pinimg.com/originals/67/51/57/67515754e856c32afccf6ca57e7febc1.jpg");}
       #slide5 {background-image: url("https://s-media-cache-ak0.pinimg.com/originals/76/e1/6e/76e16e40fb7ff20e4ef139cc1711a71f.jpg");}
@@ -130,7 +130,7 @@
       #slide1 .fotorechts:nth-of-type(5) { transform: translateZ(.4px) scale(.6) translateX(96%) translateY(250%) rotate(-5deg);}
 
 
-      #slide1 .foto1 { background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ff/bf/b2/ffbfb21a052df94888acb46ea36e63ce.jpg");}
+      #slide1 .foto1 { background-image: url("https://s-media-cache-ak0.pinimg.com/originals/b8/c9/9f/b8c99f7f57d3114c3b7f325526960737.jpg");}
       #slide1 .foto2 { background-image: url("https://s-media-cache-ak0.pinimg.com/originals/f8/a8/db/f8a8db4fc476f13681a11edad655828a.jpg");}
       #slide1 .foto3 { background-image: url("https://s-media-cache-ak0.pinimg.com/originals/67/51/57/67515754e856c32afccf6ca57e7febc1.jpg");}
       #slide1 .foto4 { background-image: url("https://s-media-cache-ak0.pinimg.com/originals/76/e1/6e/76e16e40fb7ff20e4ef139cc1711a71f.jpg");}
