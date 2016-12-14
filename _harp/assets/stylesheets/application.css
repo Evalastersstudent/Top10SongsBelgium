@@ -83,14 +83,6 @@
       }
 
 
-      p {
-            font-size: 140%;
-            line-height: 150%;
-            color: #333;
-            font-style: italic;
-      }
-
-
 
 
 
@@ -214,13 +206,15 @@
 
 
 /*---Slide2---*/
-      .slide .title p, .slide .title h2 {
+      .slide .tekst .title p, .slide .tekst .title h2 {
             display: inline;
+            font-size: 1.4em;
+            font-style: italic;
       }
 
-      .slide .title p {
+      .slide .tekst p {
             margin-left: 5%;
-            font-size: 1em;
+            font-style: italic;
       }
 
 
