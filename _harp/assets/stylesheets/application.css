@@ -195,14 +195,13 @@
 
 
       .slide .tekst p {
-            margin-left: 5%;
             font-style: italic;
       }
 
 
       .tekst {
             width: 50%;
-            padding: 2.5%;
+            padding: 2.5% 5%;
             border-radius: 5px;
             background: rgba(240,230,220, .7);
             box-shadow: 0 0 8px rgba(0, 0, 0, .7);
