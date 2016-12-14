@@ -151,9 +151,8 @@ p {
 }
 
 .fotoslinks a, .fotosrechts a {
-      color: red;
+      color: black;
       text-decoration: none;
-      vertical-align: middle;
 }
 
 
